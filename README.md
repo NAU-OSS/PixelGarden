@@ -8,3 +8,12 @@ PixelGarden is an open-source, web-based gardening simulation game where players
 - Modular architecture for easy community contributions
 - Web-based and mobile-friendly
 - Open to accessibility and localization improvements
+
+## Installation
+To run PixelGarden locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/NAU-OSS/PixelGarden.git
+cd PixelGarden
+
